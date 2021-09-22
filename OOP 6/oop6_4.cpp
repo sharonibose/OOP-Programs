@@ -1,0 +1,2 @@
+/*Crete a class demo. Derive a class result from demo privately. Take data members and member
+function to display the result in percentage.*/
